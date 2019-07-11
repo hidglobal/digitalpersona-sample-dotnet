@@ -1,0 +1,9 @@
+﻿<Application x:Class="UsingDigitalPersonaNetSDK.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Separator">
+            <Setter Property="Height" Value="10"/>
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+    </Application.Resources>
+</Application>

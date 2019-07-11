@@ -1,0 +1,31 @@
+﻿<Window x:Class="UsingDigitalPersonaNetSDK.ChooseBox" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Input" SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterOwner" WindowStyle="ToolWindow" ResizeMode="NoResize"
+        Background="{x:Static SystemColors.ControlBrush}"
+        FocusManager.FocusedElement="{Binding ElementName=ValueTextBox}" TextOptions.TextFormattingMode="Display">
+    <Border Background="{x:Static SystemColors.ControlBrush}" Margin="-3">
+        <Grid Margin="13">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock x:Name="DescriptionTextBlock" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"
+                    Text="Value:" Margin="4, 2" />
+
+            <ComboBox x:Name="ValuesComboBox" Grid.Row="0" Grid.Column="1" Width="250" Margin="2" ItemsSource="{Binding Path=Items}"
+                    SelectedValuePath="Value" DisplayMemberPath="Key" SelectedValue="{Binding Path=Value}"/>
+
+            <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right"
+                    Margin="0, 20, 0, 0">
+                <Button Content="OK" Width="85" Height="25" Margin="2" IsDefault="True" Click="OKButton_Click" />
+                <Button Content="Cancel" Width="85" Height="25" Margin="2" IsCancel="True" Click="CancelButton_Click" />
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
