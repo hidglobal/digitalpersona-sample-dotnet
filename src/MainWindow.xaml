@@ -1,7 +1,7 @@
 ﻿<Window x:Class="UsingDigitalPersonaNetSDK.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:sdk="clr-namespace:DigitalPersona.Altus.VerifyIdentity.Sdk;assembly=DigitalPersona.Altus.VerifyIdentity.Sdk"
-        Title="DigitalPersona .NET SDK Sample"
+        Title="DigitalPersona Access Mangement API Sample Program (.NET)"
         Height="600" Width="700" TextOptions.TextFormattingMode="Display"
         Background="{x:Static SystemColors.ControlBrush}" WindowStartupLocation="CenterScreen">
     
