@@ -11,7 +11,7 @@ nav_order: 1
 
 To view the digitalpersona-sample-dotnet GitHub Pages *documentation*,  click the following link.
 
-[Digitalpersona .NET Sample Application  documentation](https://hidglobal.github.io/digitalpersona-sample-dotnet/)
+[Digitalpersona .NET Sample Application  documentation](https://hidglobal.github.io/digitalpersona-native-api#sample-applications.md/)
 
 To view the digitalpersona-oidc-sample *repository*,  click this link.
 
