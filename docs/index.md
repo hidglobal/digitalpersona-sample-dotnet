@@ -3,7 +3,10 @@ layout: default
 title: Overview
 nav_order: 1
 ---
-###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ DigitalPersona .NET Sample Application / Overview&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/hidglobal/digitalpersona-sample-dotnet)  
+{% include header.html %}
+### CORE API FOR {{ site.data.product.name }}
+
+#### DigitalPersona .NET Sample Application Overview&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/hidglobal/digitalpersona-sample-dotnet)  
 
 ![](assets/HID-DPAM-sample-dotnet.png)    
 
