@@ -4,7 +4,6 @@ title: Overview
 nav_order: 1
 ---
 {% include header.html %}
-### CORE API FOR {{ site.data.product.name }}
 
 #### DigitalPersona .NET Sample Application  
 
