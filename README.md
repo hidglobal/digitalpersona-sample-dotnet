@@ -3,9 +3,7 @@ layout: default
 title: Overview
 nav_exclude: true
 ---
-###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ DigitalPersona C++ Sample Application / Overview&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/hidglobal/digitalpersona-sample-cpp/)  
-
-![](docs/assets/HID-DPAM-sample-dotnet.png)    
+{% include header.html %}
 
 #Introduction
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
