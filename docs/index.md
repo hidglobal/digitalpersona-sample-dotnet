@@ -9,9 +9,11 @@ nav_order: 1
 
 ### Overview
 
-To view the digitalpersona-sample-dotnet GitHub Pages *documentation*,  click the following link.
+This .NET sample application illustrates the features and functions of the HID DigitalPersona Native API, part of the  HID DigitalPersona Access Management API.
 
-[Digitalpersona .NET Sample Application  documentation](https://hidglobal.github.io/digitalpersona-native-api#sample-applications.md/)
+To view the DigitalPersona Native API  documentation, click the following link.
+
+[Digitalpersona Native API  documentation](https://hidglobal.github.io/digitalpersona-native-api/)
 
 To view the digitalpersona-oidc-sample *repository*,  click this link.
 
