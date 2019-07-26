@@ -9,3 +9,7 @@ To view the DigitalPersona Native API  documentation, click the following link.
 To view the HID Digitalpersona Access Management API documentation click this link.
 
 [Digitalpersona Access Management documentation](https://github.com/hidglobal/digitalpersona-access-management-api)
+
+To view the digitalpersona-sample-dotnet *repository*,  click this link.
+
+[Digitalpersona .NET Sample Application  repository](https://github.com/hidglobal/digitalpersona-sample-dotnet/)
