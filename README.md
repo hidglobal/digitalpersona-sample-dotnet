@@ -5,3 +5,7 @@ This .NET sample application illustrates the features and functions of the HID D
 To view the DigitalPersona Native API  documentation, click the following link.
 
 [Digitalpersona Native API  documentation](https://hidglobal.github.io/digitalpersona-native-api/)
+
+To view the HID Digitalpersona Access Management API documentation click this link.
+
+[Digitalpersona Access Management documentation](https://github.com/hidglobal/digitalpersona-access-management-api)
